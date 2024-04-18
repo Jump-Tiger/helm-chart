@@ -3,7 +3,7 @@ name: Release Charts
 on:
   push:
     branches:
-      - main
+      - 'velero-helm-charts-*'
 
 permissions:
   contents: write
