@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   velero:
   - apiVersion: v2
-    appVersion: 1.13.1
-    created: "2024-04-18T08:26:21.633894922Z"
+    appVersion: 1.13.2
+    created: "2024-04-18T08:45:12.543030767Z"
     description: A Helm chart for velero
-    digest: 47c6086eb897927a003fcb522db2a59ff9262e81231c86c92f873879b1fd0c2c
+    digest: bf7dd7c2b280205b13e1fb20b54cd89b2b5183c875524c6c247ac4fcac28f705
     home: https://github.com/vmware-tanzu/velero
     icon: https://cdn-images-1.medium.com/max/1600/1*-9mb3AKnKdcL_QD3CMnthQ.png
     kubeVersion: '>=1.16.0-0'
@@ -22,6 +22,6 @@ entries:
     sources:
     - https://github.com/vmware-tanzu/velero
     urls:
-    - https://github.com/Jump-Tiger/helm-chart/releases/download/velero-6.1.0/velero-6.1.0.tgz
-    version: 6.1.0
-generated: "2024-04-18T08:26:21.633900712Z"
+    - https://github.com/Jump-Tiger/helm-chart/releases/download/velero-6.2.0/velero-6.2.0.tgz
+    version: 6.2.0
+generated: "2024-04-18T08:45:12.543040124Z"
