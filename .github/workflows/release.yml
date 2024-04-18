@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - 'velero-helm-charts-*'
-
+      
 permissions:
   contents: write
   packages: write ## needed for ghcr access
